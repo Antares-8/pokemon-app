@@ -110,5 +110,33 @@ export const POKEMONS: Pokemon[] = [
 		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
 		types: ["Feu"],
 		created: new Date()
-	}
+	},
+	{
+		id: 13,
+		name: "Evoli",
+		hp: 25,
+		cp: 5,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png",
+		types: ["Normal"],
+		created: new Date()
+	},
+	{
+		id: 14,
+		name: "Léviator",
+		hp: 48,
+		cp: 8,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130.png",
+		types: ["Eau", "Vol"],
+		created: new Date()
+	},
+	{
+		id: 15,
+		name: "Amonistar",
+		hp: 20,
+		cp: 3,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/139.png",
+		types: ["Roche", "Eau"],
+		created: new Date()
+	},
+
 ];
