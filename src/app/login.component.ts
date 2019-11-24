@@ -33,7 +33,7 @@ import { Router } from "@angular/router";
 })
 
 export class LoginComponent {
-    message: string = 'Vous êtes déconnecté, (admin/admin)';
+    message: string = 'Vous êtes déconnecté';
     private name: string;
     private password: string;
 

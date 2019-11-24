@@ -16,7 +16,7 @@ var LoginComponent = /** @class */ (function () {
     function LoginComponent(authService, router) {
         this.authService = authService;
         this.router = router;
-        this.message = 'Vous êtes déconnecté, (admin/admin)';
+        this.message = 'Vous êtes déconnecté';
     }
     LoginComponent.prototype.login = function () {
         var _this = this;

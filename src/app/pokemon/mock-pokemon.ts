@@ -138,5 +138,32 @@ export const POKEMONS: Pokemon[] = [
 		types: ["Roche", "Eau"],
 		created: new Date()
 	},
+	{
+		id: 16,
+		name: "Lucario",
+		hp: 21,
+		cp: 25,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/448.png",
+		types: ["Combat", "Acier"],
+		created: new Date()
+	},
+	{
+		id: 17,
+		name: "Feunard",
+		hp: 24,
+		cp: 6,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png",
+		types: ["Feu"],
+		created: new Date()
+	},
+	{
+		id: 18,
+		name: "Raichu",
+		hp: 28,
+		cp: 8,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png",
+		types: ["Electrik"],
+		created: new Date()
+	},
 
 ];
