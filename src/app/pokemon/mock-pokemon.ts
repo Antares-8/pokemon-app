@@ -165,5 +165,76 @@ export const POKEMONS: Pokemon[] = [
 		types: ["Electrik"],
 		created: new Date()
 	},
-
+	{
+		id: 19,
+		name: "Aquali",
+		hp: 19,
+		cp: 3,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/134.png",
+		types: ["Eau"],
+		created: new Date()
+	},
+	{
+		id: 20,
+		name: "Voltali",
+		hp: 25,
+		cp: 5,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/135.png",
+		types: ["Electrik"],
+		created: new Date()
+	},
+	{
+		id: 21,
+		name: "Pyroli",
+		hp: 17,
+		cp: 8,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/136.png",
+		types: ["Feu"],
+		created: new Date()
+	},
+	{
+		id: 22,
+		name: "Noctali",
+		hp: 25,
+		cp: 5,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/197.png",
+		types: ["Ténèbre"],
+		created: new Date()
+	},
+	{
+		id: 23,
+		name: "Givrali",
+		hp: 48,
+		cp: 8,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/471.png",
+		types: ["Glace"],
+		created: new Date()
+	},
+	{
+		id: 24,
+		name: "Phyllali",
+		hp: 20,
+		cp: 3,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/470.png",
+		types: ["Plante"],
+		created: new Date()
+	},
+	{
+		id: 25,
+		name: "Mentali",
+		hp: 21,
+		cp: 25,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/196.png",
+		types: ["Psy"],
+		created: new Date()
+	},
+	{
+		id: 26,
+		name: "Nymphali",
+		hp: 24,
+		cp: 6,
+		picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/700.png",
+		types: ["Fée"],
+		created: new Date()
+	},
 ];
